@@ -16,6 +16,7 @@ public class Lab {
      * event happens, like running out of computer memory.
      */
     public void throwUncheckedException() throws IOException{
+        
         int x = 1/0;
     }
 }
